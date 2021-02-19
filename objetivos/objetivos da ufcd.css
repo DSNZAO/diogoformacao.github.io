@@ -1,0 +1,40 @@
+body{
+	font-family: Arial;
+	font-size: 10pt;
+}
+
+body img{
+	width: 150px;
+	height: 150px;
+	border: 2px solid black;
+	margin: 2px;
+}
+
+article h1{
+	font-size: 15pt;
+	color: #££££££;
+	background-color: rgba(0,0,0,0.3);
+	padding: 5px;
+	margin: 0px;
+}
+article{
+	margin-bottom: 800px;
+}
+
+article h2{
+	font-size: 13pt;
+	color: #888888;
+	margin: 0px;
+}
+.img-esq{
+	display: block;
+	float: left;
+	margin-right: 25px;
+}
+ul{
+	padding-top: 40pt;
+}
+li{
+	font-size: 15pt;
+}	
+
